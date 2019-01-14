@@ -13,6 +13,6 @@ class Solution(object):
 
         return res
 
-
+     dghfhgfhfgh
 solution = Solution()
 print(solution.subsets([1, 2, 3]))
