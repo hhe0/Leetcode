@@ -5,13 +5,10 @@ class Solution:
         :type b: int
         :rtype: int
         """
-        if b == 0:
-            return a
-        else:
-            return self.getSum(a ^ b, (a & b) << 1)
+        return sum([a, b])
 
 
-a = 1
-b = 2
+a = -1
+b = 3
 solution = Solution()
 print(solution.getSum(a, b))
