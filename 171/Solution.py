@@ -11,6 +11,7 @@ class Solution:
 
         return num
 
+
 s = 'ZY'
 solution = Solution()
 solution.titleToNumber(s)
