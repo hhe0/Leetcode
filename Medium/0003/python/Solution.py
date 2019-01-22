@@ -5,14 +5,25 @@ class Solution:
         :rtype: int
         """
         if not s:
-            return None
-        res = [s[0]]
-        for i in s:
-            if i not in res:
-                res.append(i)
-            else:
-                break
+            return 0
 
-s = 'abcabcbb'
+        max = 1
+        for i in range(0, len(s) - 1):
+            temp = [s[i]]
+            length = 1
+            for j in range(i+1, len(s)):
+                if s[j] not in temp:
+                    temp.append(s[j])
+                    length += 1
+                else:
+                    break
+            if length > max:
+                max = length
+
+        return max
+
+
+s = 'pwwkew'
 solution = Solution()
-solution.lengthOfLongestSubstring(s)
+res = solution.lengthOfLongestSubstring(s)
+print(res)
