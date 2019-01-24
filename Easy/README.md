@@ -12,7 +12,7 @@
 |0021|<a href="https://leetcode-cn.com/problems/merge-two-sorted-lists/">合并两个有序链表</a>|<a href="https://github.com/hhe0/leetcode/blob/master/Easy/0021/python">python</a>||
 |0026|<a href="https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/">删除排序数组中的重复项</a>|<a href="https://github.com/hhe0/leetcode/blob/master/Easy/0026/python">python</a>||
 |0027|<a href="https://leetcode-cn.com/problems/remove-element/">移除元素</a>|<a href="https://github.com/hhe0/leetcode/blob/master/Easy/0027/python">python</a>||
-|0028|<a href="https://leetcode-cn.com/problems/implement-strstr/">实现strStr()</a>|||
+|0028|<a href="https://leetcode-cn.com/problems/implement-strstr/">实现strStr()</a>||<a href="https://github.com/hhe0/leetcode/blob/master/Easy/0028/c">c</a>|
 |0035|<a href="https://leetcode-cn.com/problems/search-insert-position/">搜索插入位置</a>|||
 |0038|<a href="https://leetcode-cn.com/problems/count-and-say/">报数</a>|||
 |0053|<a href="https://leetcode-cn.com/problems/maximum-subarray/">最大子序和</a>|||
