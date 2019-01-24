@@ -1,28 +1,26 @@
 class Solution:
-    def removeDuplicates(self, nums):
+    def removeElement(self, nums, val):
         """
         :type nums: List[int]
+        :type val: int
         :rtype: int
         """
         if not nums:
             return 0
 
-        if len(nums) == 1:
-            return 1
-
-        i, j = 0, 1
+        i, j = 0, 0
         while j < len(nums):
-            if nums[j] != nums[i]:
-                i += 1
+            if nums[j] != val:
                 nums[i] = nums[j]
+                i += 1
                 j += 1
             else:
                 j += 1
 
-        return i+1
+        return i
 
 
 nums = []
 solution = Solution()
-res = solution.removeDuplicates(nums)
+res = solution.removeElement(nums, 3)
 print(res)
