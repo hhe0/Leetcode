@@ -15,7 +15,7 @@
 |0028|<a href="https://leetcode-cn.com/problems/implement-strstr/">实现strStr()</a>||<a href="https://github.com/hhe0/leetcode/blob/master/Easy/0028/c">c</a>|
 |0035|<a href="https://leetcode-cn.com/problems/search-insert-position/">搜索插入位置</a>|<a href="https://github.com/hhe0/leetcode/blob/master/Easy/0035/python">python</a>||
 |0038|<a href="https://leetcode-cn.com/problems/count-and-say/">报数</a>|||
-|0053|<a href="https://leetcode-cn.com/problems/maximum-subarray/">最大子序和</a>|||
+|0053|<a href="https://leetcode-cn.com/problems/maximum-subarray/">最大子序和</a>|<a href="https://github.com/hhe0/leetcode/blob/master/Easy/0053/python">python</a>||
 |0058|<a href="https://leetcode-cn.com/problems/length-of-last-word/">最后一个单词的长度</a>|<a href="https://github.com/hhe0/leetcode/blob/master/Easy/0058/python">python</a>||
 |0066|<a href="https://leetcode-cn.com/problems/plus-one/">加一</a>|<a href="https://github.com/hhe0/leetcode/blob/master/Easy/0066/python">python</a>||
 |0067|<a href="https://leetcode-cn.com/problems/add-binary/">二进制求和</a>|||
