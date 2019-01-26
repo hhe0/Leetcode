@@ -18,7 +18,7 @@
 |0053|<a href="https://leetcode-cn.com/problems/maximum-subarray/">最大子序和</a>|<a href="https://github.com/hhe0/leetcode/blob/master/Easy/0053/python">python</a>||
 |0058|<a href="https://leetcode-cn.com/problems/length-of-last-word/">最后一个单词的长度</a>|<a href="https://github.com/hhe0/leetcode/blob/master/Easy/0058/python">python</a>||
 |0066|<a href="https://leetcode-cn.com/problems/plus-one/">加一</a>|<a href="https://github.com/hhe0/leetcode/blob/master/Easy/0066/python">python</a>||
-|0067|<a href="https://leetcode-cn.com/problems/add-binary/">二进制求和</a>|||
+|0067|<a href="https://leetcode-cn.com/problems/add-binary/">二进制求和</a>|<a href="https://github.com/hhe0/leetcode/blob/master/Easy/0067/python">python</a>||
 |0069|<a href="https://leetcode-cn.com/problems/sqrtx/">x的平方根</a>|<a href="https://github.com/hhe0/leetcode/blob/master/Easy/0069/python">python</a>||
 |0070|<a href="https://leetcode-cn.com/problems/climbing-stairs/">爬楼梯</a>|||
 |0083|<a href="https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/">删除排序链表中的重复元素</a>|<a href="https://github.com/hhe0/leetcode/blob/master/Easy/0083/python">python</a>||
