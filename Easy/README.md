@@ -39,7 +39,7 @@
 |0136|<a href="https://leetcode-cn.com/problems/single-number/">只出现一次的数字</a>|||
 |0141|<a href="https://leetcode-cn.com/problems/linked-list-cycle/">环形链表</a>|||
 |0155|<a href="https://leetcode-cn.com/problems/min-stack/">最小栈</a>|||
-|0160|<a href="https://leetcode-cn.com/problems/intersection-of-two-linked-lists/">相交链表</a>|||
+|0160|<a href="https://leetcode-cn.com/problems/intersection-of-two-linked-lists/">相交链表</a>|<a href="https://github.com/hhe0/leetcode/blob/master/Easy/0160/python">python</a>||
 |0167|<a href="https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/">两数之和 II——输入有序数组</a>|||
 |0168|<a href="https://leetcode-cn.com/problems/excel-sheet-column-title/">Excel表列名称</a>|||
 |0169|<a href="https://leetcode-cn.com/problems/majority-element/">求众数</a>|||
