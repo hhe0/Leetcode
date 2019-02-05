@@ -32,4 +32,4 @@
 |0482|<a href="https://leetcode-cn.com/problems/license-key-formatting/">密钥格式化</a>|||
 |0485|<a href="https://leetcode-cn.com/problems/max-consecutive-ones/">最大连续1的个数</a>|<a href="https://github.com/hhe0/leetcode/tree/master/Easy/0400-0499/0485/python">python</a>||
 |0492|<a href="https://leetcode-cn.com/problems/construct-the-rectangle/">构造矩形</a>|||
-|0496|<a href="https://leetcode-cn.com/problems/next-greater-element-i/">下一个更大元素</a>|<a href="https://github.com/hhe0/leetcode/tree/master/Easy/0400-0499/0496/python">python</a>||
+|0496|<a href="https://leetcode-cn.com/problems/next-greater-element-i/">下一个更大元素 I</a>|<a href="https://github.com/hhe0/leetcode/tree/master/Easy/0400-0499/0496/python">python</a>||
