@@ -21,7 +21,7 @@
 |0669|<a href="https://leetcode-cn.com/problems/trim-a-binary-search-tree/">修剪二叉搜索树</a>||||
 |0671|<a href="https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/">二叉树的中第二小的节点</a>||||
 |0674|<a href="https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/">最长连续递增序列</a>||||
-|0680|<a href=https://leetcode-cn.com/problems/valid-palindrome-ii/"">验证回文字符串 II</a>||||
+|0680|<a href="https://leetcode-cn.com/problems/valid-palindrome-ii/">验证回文字符串 II</a>||||
 |0682|<a href="https://leetcode-cn.com/problems/baseball-game/">棒球比赛</a>||||
 |0686|<a href="https://leetcode-cn.com/problems/repeated-string-match/">重复叠加字符串匹配</a>||||
 |0687|<a href="https://leetcode-cn.com/problems/longest-univalue-path/">最长同值路径</a>||||
