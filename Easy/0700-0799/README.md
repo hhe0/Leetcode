@@ -28,4 +28,4 @@
 |0783|<a href="https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/">二叉搜索树节点的最小距离</a>|||
 |0784|<a href="https://leetcode-cn.com/problems/letter-case-permutation/">字母大小写全排列</a>|||
 |0788|<a href="https://leetcode-cn.com/problems/rotated-digits/">旋转数字</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0700-0799/0788/python">python</a>||
-|0796|<a href="https://leetcode-cn.com/problems/rotate-string/">旋转字符串</a>|||
+|0796|<a href="https://leetcode-cn.com/problems/rotate-string/">旋转字符串</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0700-0799/0796/python">python</a>||
