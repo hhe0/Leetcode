@@ -17,7 +17,7 @@
 |0728|<a href="https://leetcode-cn.com/problems/self-dividing-numbers/">自除数</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0700-0799/0728/python">python</a>||
 |0733|<a href="https://leetcode-cn.com/problems/flood-fill/">图像渲染</a>|||
 |0743|<a href="https://leetcode-cn.com/problems/network-delay-time/">网络延迟时间</a>|||
-|0744|<a href="https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/">寻找比目标字母大的最小字母</a>|||
+|0744|<a href="https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/">寻找比目标字母大的最小字母</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0700-0799/0744/python">python</a>||
 |0746|<a href="https://leetcode-cn.com/problems/min-cost-climbing-stairs/">使用最小花费爬楼梯</a>|||
 |0747|<a href="https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/">至少是其他数字两倍的最大数</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0700-0799/0747/python">python</a>||
 |0748|<a href="https://leetcode-cn.com/problems/shortest-completing-word/">最短完整词</a>|||
