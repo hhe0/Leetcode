@@ -23,7 +23,7 @@
 |0748|<a href="https://leetcode-cn.com/problems/shortest-completing-word/">最短完整词</a>|||
 |0754|<a href="https://leetcode-cn.com/problems/reach-a-number/">到达终点数字</a>|||
 |0762|<a href="https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/">二进制表示中质数个计算置位</a>|||
-|0766|<a href="https://leetcode-cn.com/problems/toeplitz-matrix/">托普利茨矩阵</a>|||
+|0766|<a href="https://leetcode-cn.com/problems/toeplitz-matrix/">托普利茨矩阵</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0700-0799/0766/python">python</a>||
 |0771|<a href="https://leetcode-cn.com/problems/jewels-and-stones/">宝石与石头</a>|||
 |0783|<a href="https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/">二叉搜索树节点的最小距离</a>|||
 |0784|<a href="https://leetcode-cn.com/problems/letter-case-permutation/">字母大小写全排列</a>|||
