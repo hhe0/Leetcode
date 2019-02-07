@@ -19,7 +19,7 @@
 |0743|<a href="https://leetcode-cn.com/problems/network-delay-time/">网络延迟时间</a>|||
 |0744|<a href="https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/">寻找比目标字母大的最小字母</a>|||
 |0746|<a href="https://leetcode-cn.com/problems/min-cost-climbing-stairs/">使用最小花费爬楼梯</a>|||
-|0747|<a href="https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/">至少是其他数字两倍的最大数</a>|||
+|0747|<a href="https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/">至少是其他数字两倍的最大数</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0700-0799/0747/python">python</a>||
 |0748|<a href="https://leetcode-cn.com/problems/shortest-completing-word/">最短完整词</a>|||
 |0754|<a href="https://leetcode-cn.com/problems/reach-a-number/">到达终点数字</a>|||
 |0762|<a href="https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/">二进制表示中质数个计算置位</a>|||
