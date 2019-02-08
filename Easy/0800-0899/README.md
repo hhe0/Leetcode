@@ -26,9 +26,9 @@
 |0874|<a href="https://leetcode-cn.com/problems/walking-robot-simulation/">模拟行走机器人</a>|||
 |0876|<a href="https://leetcode-cn.com/problems/middle-of-the-linked-list/">链表的中间结点</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0800-0899/0876/python">python</a>||
 |0883|<a href="https://leetcode-cn.com/problems/projection-area-of-3d-shapes/">三维形体投影面积</a>|||
-|0884|<a href="https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/">两句话中的不常见单词</a>|||
+|0884|<a href="https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/">两句话中的不常见单词</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0800-0899/0884/python">python</a>||
 |0888|<a href="https://leetcode-cn.com/problems/fair-candy-swap/">公平的糖果交换</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0800-0899/0888/python">python</a>||
 |0892|<a href="https://leetcode-cn.com/problems/surface-area-of-3d-shapes/">三维形体的表面积</a>|||
 |0893|<a href="https://leetcode-cn.com/problems/groups-of-special-equivalent-strings/">特殊等价字符串组</a>|||
-|0896|<a href="https://leetcode-cn.com/problems/monotonic-array/">单调数列</a>|||
+|0896|<a href="https://leetcode-cn.com/problems/monotonic-array/">单调数列</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0800-0899/0896/python">python</a>||
 |0897|<a href="https://leetcode-cn.com/problems/increasing-order-search-tree/">递增顺序查找树</a>|||
