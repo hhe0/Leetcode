@@ -10,7 +10,7 @@
 |0812|<a href="https://leetcode-cn.com/problems/largest-triangle-area/">最大三角形面积</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0800-0899/0812/python">python</a>||
 |0819|<a href="https://leetcode-cn.com/problems/most-common-word/">最常见的单词</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0800-0899/0819/python">python</a>||
 |0821|<a href="https://leetcode-cn.com/problems/shortest-distance-to-a-character/">字符的最短距离</a>|||
-|0824|<a href="https://leetcode-cn.com/problems/goat-latin/">山羊拉丁文</a>|||
+|0824|<a href="https://leetcode-cn.com/problems/goat-latin/">山羊拉丁文</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0800-0899/0824/python">python</a>||
 |0830|<a href="https://leetcode-cn.com/problems/positions-of-large-groups/">较大分组的位置</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0800-0899/0830/python">python</a>||
 |0832|<a href="https://leetcode-cn.com/problems/flipping-an-image/">翻转图像</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0800-0899/0832/python">python</a>||
 |0836|<a href="https://leetcode-cn.com/problems/rectangle-overlap/">矩形重叠</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0800-0899/0836/python">python</a>||
