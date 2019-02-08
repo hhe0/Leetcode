@@ -14,7 +14,7 @@
 |0830|<a href="https://leetcode-cn.com/problems/positions-of-large-groups/">较大分组的位置</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0800-0899/0830/python">python</a>||
 |0832|<a href="https://leetcode-cn.com/problems/flipping-an-image/">翻转图像</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0800-0899/0832/python">python</a>||
 |0836|<a href="https://leetcode-cn.com/problems/rectangle-overlap/">矩形重叠</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0800-0899/0836/python">python</a>||
-|0840|<a href="https://leetcode-cn.com/problems/magic-squares-in-grid/">矩阵中的幻方</a>|||
+|0840|<a href="https://leetcode-cn.com/problems/magic-squares-in-grid/">矩阵中的幻方</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0800-0899/0840/python">python</a>||
 |0844|<a href="https://leetcode-cn.com/problems/backspace-string-compare/">比较含退格的字符串</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0800-0899/0844/python">python</a>||
 |0849|<a href="https://leetcode-cn.com/problems/maximize-distance-to-closest-person/">到最近的人的最大距离</a>|||
 |0852|<a href="https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/">山脉数组的峰顶索引</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0800-0899/0852/python">python</a>||
