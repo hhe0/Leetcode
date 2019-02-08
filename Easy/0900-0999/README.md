@@ -9,7 +9,7 @@
 |0914|<a href="https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/">卡牌分组</a>|||
 |0917|<a href="https://leetcode-cn.com/problems/reverse-only-letters/">仅仅反转字母</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0900-0999/0917/python">python</a>||
 |0922|<a href="https://leetcode-cn.com/problems/sort-array-by-parity-ii/">按奇偶排序数组 II</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0900-0999/0922/python">python</a>||
-|0925|<a href="https://leetcode-cn.com/problems/long-pressed-name/">长按键入</a>|||
+|0925|<a href="https://leetcode-cn.com/problems/long-pressed-name/">长按键入</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0900-0999/0925/python">python</a>||
 |0929|<a href="https://leetcode-cn.com/problems/unique-email-addresses/">独特的电子邮件地址</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0900-0999/0929/python">python</a>||
 |0933|<a href="https://leetcode-cn.com/problems/number-of-recent-calls/">最近的请求次数</a>|||
 |0937|<a href="https://leetcode-cn.com/problems/reorder-log-files/">重新排列日志文件</a>|||
