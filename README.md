@@ -1,5 +1,5 @@
 # Leetcode刷题
-* <a href="https://leetcode-cn.com/hhe/">我的Leetcode账号</a>
+* <a href="https://leetcode-cn.com/hhe/">我的Leetcode</a>
 
 ## 目的
 * 锻炼思维能力
