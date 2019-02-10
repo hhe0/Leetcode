@@ -6,7 +6,7 @@
 |---|---|---|---|
 |0700|<a href="https://leetcode-cn.com/problems/search-in-a-binary-search-tree/">二叉搜索树的搜索</a>|||
 |0703|<a href="https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/">数据流中的第K大元素</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0700-0799/0703/python">python</a>||
-|0704|<a href="https://leetcode-cn.com/problems/binary-search/">二分查找</a>|||
+|0704|<a href="https://leetcode-cn.com/problems/binary-search/">二分查找</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0700-0799/0704/python">python</a>||
 |0705|<a href="https://leetcode-cn.com/problems/design-hashset/">设计哈希集合</a>|||
 |0706|<a href="https://leetcode-cn.com/problems/design-hashmap/">设计哈希映射</a>|||
 |0707|<a href="https://leetcode-cn.com/problems/design-linked-list/">设计链表</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0700-0799/0707/python">python</a>||
