@@ -15,7 +15,7 @@
 |0937|<a href="https://leetcode-cn.com/problems/reorder-log-files/">重新排列日志文件</a>|||
 |0941|<a href="https://leetcode-cn.com/problems/valid-mountain-array/">有效的山脉数组</a>|||
 |0942|<a href="https://leetcode-cn.com/problems/di-string-match/">增减字符串匹配</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0900-0999/0942/python">python</a>||
-|0944|<a href="https://leetcode-cn.com/problems/delete-columns-to-make-sorted/">删列造序</a>|||
+|0944|<a href="https://leetcode-cn.com/problems/delete-columns-to-make-sorted/">删列造序</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0900-0999/0944/python">python</a>||
 |0949|<a href="https://leetcode-cn.com/problems/largest-time-for-given-digits/">给定数字能组成的最大时间</a>|||
 |0953|<a href="https://leetcode-cn.com/problems/verifying-an-alien-dictionary/">验证外星语词典</a>|||
 |0961|<a href="https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/">重复N次的元素</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0900-0999/0961/python">python</a>||
