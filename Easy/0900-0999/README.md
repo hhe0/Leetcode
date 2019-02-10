@@ -20,7 +20,7 @@
 |0953|<a href="https://leetcode-cn.com/problems/verifying-an-alien-dictionary/">验证外星语词典</a>|||
 |0961|<a href="https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/">重复N次的元素</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0900-0999/0961/python">python</a>||
 |0965|<a href="https://leetcode-cn.com/problems/univalued-binary-tree/">单值二叉树</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0900-0999/0965/python">python</a>||
-|0970|<a href="https://leetcode-cn.com/problems/powerful-integers/">强整数</a>|||
+|0970|<a href="https://leetcode-cn.com/problems/powerful-integers/">强整数</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0900-0999/0970/python">python</a>||
 |0973|<a href="https://leetcode-cn.com/problems/k-closest-points-to-origin/">最接近原点的K个点</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0900-0999/0973/python">python</a>||
 |0976|<a href="https://leetcode-cn.com/problems/largest-perimeter-triangle/">三角形的最大周长</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0900-0999/0976/python">python</a>||
 |0977|<a href="https://leetcode-cn.com/problems/squares-of-a-sorted-array/">有序数组的平方</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0900-0999/0977/python">python</a>||
