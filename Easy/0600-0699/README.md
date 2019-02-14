@@ -4,7 +4,7 @@
 
 |序号|题目|语言1|语言2|
 |---|---|---|---|
-|0605|<a href="https://leetcode-cn.com/problems/can-place-flowers/">种花问题</a>||||
+|0605|<a href="https://leetcode-cn.com/problems/can-place-flowers/">种花问题</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0600-0699/0605/python">python</a>|||
 |0606|<a href="https://leetcode-cn.com/problems/construct-string-from-binary-tree/">根据二叉树创建字符串</a>||||
 |0617|<a href="https://leetcode-cn.com/problems/merge-two-binary-trees/">合并二叉树</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0600-0699/0617/python">python</a>|||
 |0620|<a href="https://leetcode-cn.com/problems/not-boring-movies/">有趣的电影</a>||||
