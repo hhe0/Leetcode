@@ -9,7 +9,7 @@
 |0204|<a href="https://leetcode-cn.com/problems/count-primes/">计数质数</a>|<a href="https://github.com/hhe0/leetcode/tree/master/Easy/0200-0299/0204/python">python</a>||
 |0205|<a href="https://leetcode-cn.com/problems/isomorphic-strings/">同构字符串</a>|||
 |0206|<a href="https://leetcode-cn.com/problems/reverse-linked-list/">反转链表</a>|<a href="https://github.com/hhe0/leetcode/tree/master/Easy/0200-0299/0206/python">python</a>||
-|0217|<a href="https://leetcode-cn.com/problems/contains-duplicate/">存在重复元素</a>|||
+|0217|<a href="https://leetcode-cn.com/problems/contains-duplicate/">存在重复元素</a>|<a href="https://github.com/hhe0/leetcode/tree/master/Easy/0200-0299/0217/python">python</a>||
 |0219|<a href="https://leetcode-cn.com/problems/contains-duplicate-ii/">存在重复元素 II</a>|||
 |0225|<a href="https://leetcode-cn.com/problems/implement-stack-using-queues/">用队列实现栈</a>|<a href="https://github.com/hhe0/leetcode/tree/master/Easy/0200-0299/0225/python">python</a>||
 |0226|<a href="https://leetcode-cn.com/problems/invert-binary-tree/">翻转二叉树</a>|<a href="https://github.com/hhe0/leetcode/tree/master/Easy/0200-0299/0226/python">python</a>||
