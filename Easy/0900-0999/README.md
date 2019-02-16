@@ -25,3 +25,4 @@
 |0976|<a href="https://leetcode-cn.com/problems/largest-perimeter-triangle/">三角形的最大周长</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0900-0999/0976/python">python</a>||
 |0977|<a href="https://leetcode-cn.com/problems/squares-of-a-sorted-array/">有序数组的平方</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0900-0999/0977/python">python</a>||
 |0984|<a href="https://leetcode-cn.com/problems/string-without-aaa-or-bbb/">不含AAA或BBB的字符串</a>|||
+|0985|<a href="https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries/">查询后的偶数和</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0900-0999/0985/python">python</a>||
