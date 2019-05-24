@@ -4,7 +4,7 @@
 
 |序号|题目|语言1|语言2|语言3|
 |---|---|---|---|---|
-|0001|<a href="https://leetcode-cn.com/problems/two-sum/">两数之和</a>|<a href="https://github.com/hhe0/leetcode/blob/master/Easy/0001/python">python</a>|<a href="https://github.com/hhe0/leetcode/blob/master/Easy/0001/c">c</a>|<a href="https://github.com/hhe0/leetcode/blob/master/Easy/0001/go">go</a>|
+|0001|<a href="https://leetcode-cn.com/problems/two-sum/">两数之和</a>|<a href="https://github.com/hhe0/leetcode/blob/master/Easy/0001/python">python</a>|<a href="https://github.com/hhe0/leetcode/blob/master/Easy/0001/c">c</a>|<a href="https://github.com/hhe0/Leetcode/tree/master/Easy/0001-0099/0001/go">go</a>|
 |0007|<a href="https://leetcode-cn.com/problems/reverse-integer/">整数反转</a>|<a href="https://github.com/hhe0/leetcode/blob/master/Easy/0007/python">python</a>||
 |0009|<a href="https://leetcode-cn.com/problems/palindrome-number/">回文数</a>|<a href="https://github.com/hhe0/leetcode/blob/master/Easy/0009/python">python</a>||
 |0013|<a href="https://leetcode-cn.com/problems/roman-to-integer/">罗马数字转整数</a>|<a href="https://github.com/hhe0/leetcode/blob/master/Easy/0009/python">python</a>||
