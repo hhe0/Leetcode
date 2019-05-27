@@ -2,8 +2,8 @@
 * 难度：简单
 * 题号：0100-0199
 
-|序号|题目|语言1|语言2|
-|---|---|---|---|
+|序号|题目|语言1|语言2|语言3|
+|---|---|---|---|---|
 |0100|<a href="https://leetcode-cn.com/problems/same-tree/">相同的树</a>|||
 |0101|<a href="https://leetcode-cn.com/problems/symmetric-tree/">对称二叉树</a>|||
 |0104|<a href="https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/">二叉树的最大深度</a>|<a href="https://github.com/hhe0/leetcode/blob/master/Easy/0104/python">python</a>||
@@ -17,7 +17,7 @@
 |0121|<a href="https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/">买卖股票的最佳时机 I</a>|||
 |0122|<a href="https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/">买卖股票的最佳时机 II</a>|||
 |0125|<a href="https://leetcode-cn.com/problems/valid-palindrome/">验证回文串</a>|||
-|0136|<a href="https://leetcode-cn.com/problems/single-number/">只出现一次的数字</a>|<a href="https://github.com/hhe0/leetcode/tree/master/Easy/0100-0199/0136/python">python</a>||
+|0136|<a href="https://leetcode-cn.com/problems/single-number/">只出现一次的数字</a>|<a href="https://github.com/hhe0/leetcode/tree/master/Easy/0100-0199/0136/python">python</a>||<a href="https://github.com/hhe0/leetcode/tree/master/Easy/0100-0199/0136/go">go</a>|
 |0141|<a href="https://leetcode-cn.com/problems/linked-list-cycle/">环形链表</a>|<a href="https://github.com/hhe0/leetcode/tree/master/Easy/0100-0199/0141/python">python</a>||
 |0155|<a href="https://leetcode-cn.com/problems/min-stack/">最小栈</a>|<a href="https://github.com/hhe0/leetcode/tree/master/Easy/0100-0199/0155/python">python</a>||
 |0160|<a href="https://leetcode-cn.com/problems/intersection-of-two-linked-lists/">相交链表</a>|<a href="https://github.com/hhe0/leetcode/blob/master/Easy/0160/python">python</a>||
